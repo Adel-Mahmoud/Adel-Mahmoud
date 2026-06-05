@@ -182,9 +182,3 @@ Features:
 ---
 
 ⭐ If you like my projects, consider giving them a star.
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adel-Mahmoud&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adel-Mahmoud&layout=compact)
