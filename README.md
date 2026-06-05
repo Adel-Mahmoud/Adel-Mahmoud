@@ -38,12 +38,9 @@ I enjoy transforming complex business requirements into clean, maintainable, and
 - **Livewire** - Full-stack component framework
 - **Filament** - Admin panel builder
 - **REST API Development** - RESTful service architecture
-- **GraphQL** - Query language for APIs
 - **Laravel Sanctum** - API token authentication
 - **Spatie Permission** - Role & permission management
 - **MySQL** - Relational database
-- **PostgreSQL** - Advanced database management
-- **Redis** - In-memory data structure store
 
 ### Frontend Technologies
 
@@ -53,8 +50,6 @@ I enjoy transforming complex business requirements into clean, maintainable, and
 - **TypeScript** - Type-safe JavaScript
 - **Tailwind CSS** - Utility-first CSS framework
 - **Bootstrap 5** - Responsive design framework
-- **Vue.js** - Progressive JavaScript framework
-- **Alpine.js** - Lightweight JavaScript framework
 
 ### Laravel Packages & Libraries
 
@@ -104,9 +99,7 @@ I enjoy transforming complex business requirements into clean, maintainable, and
 #### Admin & UI
 - **Filament** - Full-featured admin panel
 - **Livewire** - Component framework
-- **Nova** - Admin panel alternative
-- **Horizon** - Queue monitoring
-- **Dusk** - Browser automation
+- **admin lte** - Admin panel
 
 ### Frontend Libraries & Tools
 
@@ -129,11 +122,7 @@ I enjoy transforming complex business requirements into clean, maintainable, and
 - **Composer** - PHP dependency manager
 - **NPM/Yarn** - JavaScript package managers
 - **Postman** - API testing & documentation
-- **AWS** - Cloud infrastructure (EC2, S3, RDS, Lambda)
 - **DigitalOcean** - Cloud hosting & App Platform
-- **Nginx/Apache** - Web servers
-- **Linux** - Server management (Ubuntu, CentOS)
-- **cPanel/Plesk** - Server management panels
 
 ### Development Tools
 
@@ -572,15 +561,6 @@ DevTools::monitorPerformance();
 9. **Scalability** - Design systems that grow with business needs
 10. **User Experience** - Always prioritize the end-user experience
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adel-Mahmoud&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adel-Mahmoud&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
----
 
 ## 🏆 Achievements & Highlights
 
