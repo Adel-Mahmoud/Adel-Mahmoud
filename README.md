@@ -2,6 +2,13 @@
 
 ## Full Stack Laravel Developer | Modern Web Application Architect
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Filament](https://img.shields.io/badge/Filament-F59E0B?style=for-the-badge)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
 ## 🚀 About Me
@@ -26,10 +33,8 @@ My approach combines clean code principles, database optimization, and modern de
 ### Frontend Technologies
 - **React** (19.x)
 - **TypeScript**
-- **Vite** (Build Tool & Development Server)
 - **Tailwind CSS** (v4.x - Utility-First CSS)
 - **Bootstrap** (v5.x)
-- **Sass/SCSS**
 
 ### Frontend Libraries & Utilities
 - **React Router** (v7.x - Routing)
